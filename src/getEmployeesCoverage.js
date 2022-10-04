@@ -73,5 +73,4 @@ function getEmployeesCoverage(params) {
   }
 }
 
-/* console.log(getEmployeesCoverage()); */
 module.exports = getEmployeesCoverage;
